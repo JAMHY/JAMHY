@@ -1,6 +1,5 @@
 ### Hi there 👋
-### EL Pepe
-:octocat:
+Don Bosco :octocat:
 
 <!--
 **JAMHY/JAMHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
